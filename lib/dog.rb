@@ -7,10 +7,6 @@ class Dog
     @breed=input
   end
   
-  def breed
-    @breed
-  end
-  
   def name
     @name
   end
